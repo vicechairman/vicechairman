@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vicechairman
+- 👋 Hi, I’m @Krishna kumar jha
 - 👀 I’m interested in coding and DSA
 - 🌱 I’m currently learning DSA and AIML
 - 💞️ I’m looking to collaborate on AIML Project
